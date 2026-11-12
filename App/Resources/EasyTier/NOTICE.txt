@@ -1,0 +1,8 @@
+MacEasyTier bundles unmodified EasyTier release binaries:
+  easytier-core
+  easytier-cli
+
+EasyTier version: 2.6.4
+Project: https://github.com/EasyTier/EasyTier
+License: GNU Lesser General Public License v3.0 (see LICENSE.txt)
+Source code: https://github.com/EasyTier/EasyTier/tree/v2.6.4

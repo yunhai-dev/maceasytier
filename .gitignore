@@ -1,0 +1,16 @@
+.DS_Store
+
+# 构建输出
+build/
+dist/
+DerivedData/
+
+# Xcode 用户状态
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# SwiftPM
+.build/
+.swiftpm/
+Vendor/
